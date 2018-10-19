@@ -7,5 +7,6 @@ package com.baizhi.enti;
 public class tots1 {
     public static void main(String[] args) {
         System.out.println("hahah");
+        System.out.println("xixi");
     }
 }
